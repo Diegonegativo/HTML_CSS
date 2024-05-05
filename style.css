@@ -1,0 +1,35 @@
+*{
+    background-color: rgb(66, 61, 61);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 20px;
+}
+.header{
+    padding-top: 50px;
+    text-align: center;
+    color: antiquewhite;
+}
+.my_life{
+    padding-top: 50px;
+    text-align: center;
+    color: antiquewhite;
+}
+.contacts{
+    padding-top: 50px;
+    text-align: center;
+    color: antiquewhite;
+    
+}
+.container{
+    text-align: center;
+    padding-top: 50px;
+}
+a {
+    margin-right: 20px; /* Define a margem à direita de cada link (ou imagem) */
+}
+
+a:last-child {
+    margin-right: 0; /* Remove a margem da última imagem para evitar um espaço extra desnecessário */
+}
+
